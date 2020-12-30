@@ -83,7 +83,7 @@ var router = express.Router();
                 'acilis':'9:00',
                 'kapanis':'22:00',
                 'kapali':false
-              },
+              }
           ],
           'yorumlar':[
               {
